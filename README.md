@@ -15,5 +15,5 @@
 <div>
 <div>
   <a href="https://www.linkedin.com/in/jhon-marchena-892a8928a/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><img/><a/>
-  <a href="jhcronos@gmail.com"><img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red"><a/>
+  <a href="mailto:jhcronos@gmail.com"><img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red"><a/>
 </div>
