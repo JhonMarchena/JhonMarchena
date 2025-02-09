@@ -3,13 +3,14 @@
 
 <h3>Technology</h3>
 <div>
-<img src="https://img.shields.io/badge/-HTML5-333333?logo=HTML5"><img/>
-<img src="https://img.shields.io/badge/CSS-333333?style=flat&logo=CSS3&logoColor=blue"><img/>
+<img src="https://img.shields.io/badge/-HTML5-gray?logo=HTML5"><img/>
+<img src="https://img.shields.io/badge/CSS-gray?style=flat&logo=CSS3&logoColor=blue"><img/>
 <img src="https://img.shields.io/badge/Javascript-gray?logo=javascript"><img/>
 <img src="https://img.shields.io/badge/React-gray?logo=React"><img/>
 <img src="https://img.shields.io/badge/NPM-gray?logo=NPM"><img/>
 <img src="https://img.shields.io/badge/GIT-gray?logo=GIT"><img/>
 <img src="https://img.shields.io/badge/Docker-gray?logo=Docker"><img/>
+<img src="https://img.shields.io/badge/MySQL-gray?logo=MySQL"><img/>
 </div>
 
 <h3>Contact Me</h3>
