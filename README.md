@@ -9,8 +9,7 @@
 <img src="https://img.shields.io/badge/React-gray?logo=React"><img/>
 <img src="https://img.shields.io/badge/NPM-gray?logo=NPM"><img/>
 <img src="https://img.shields.io/badge/GIT-gray?logo=GIT"><img/>
-<img src="https://img.shields.io/badge/GIT-gray?logo=Docker"><img/>
-<img src="https://img.shields.io/badge/GIT-gray?logo=ExpressJS"><img/>
+<img src="https://img.shields.io/badge/Docker-gray?logo=Docker"><img/>
 </div>
 
 <h3>Contact Me</h3>
