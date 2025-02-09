@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/NodeJs-gray?logo=Node.js"><img/>
 <img src="https://img.shields.io/badge/Docker-gray?logo=Docker"><img/>
 <img src="https://img.shields.io/badge/GIT-gray?logo=GIT"><img/>
+<img src="https://img.shields.io/badge/GitHub-gray?logo=GitHub"><img/>
 </div>
 
 <h3>Contact Me</h3>
